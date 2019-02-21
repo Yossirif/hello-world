@@ -1,6 +1,3 @@
-# hello-world
-Just testing :)
+This is an additional test for the branch
+I will add this later
 
-This is what I am adding to the readme file:
-I would like to thank my parents for getting me here.
-this is a code I am adding to the main brance.
